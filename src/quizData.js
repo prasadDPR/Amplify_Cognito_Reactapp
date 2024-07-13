@@ -15,9 +15,9 @@ const quizData = [
       answer: "Elephant"
     },
     {
-      question: "What does 'HTTP' stand for?",
-      options: ["HyperText Transfer Protocol", "Hyperlink Transfer Technology Protocol", "Hyperlink Text Transfer Protocol", "HyperText Technology Protocol"],
-      answer: "HyperText Transfer Protocol"
+      question: "Who is ekascloud Operational Manager?",
+      options: ["Dushyanthan", "Vijay", "Surya", "Ram"],
+      answer: "Dushyanthan"
     },
     {
       question: "Which programming language is known as the backbone of the World Wide Web?",
