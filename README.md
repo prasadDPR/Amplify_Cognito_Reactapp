@@ -1,4 +1,10 @@
 ## Building_a_React_app_with_AWS_Amplify_Cognito_and_GitHub_Actions:
+
+## Architectural Diagram
+
+![Amplify-cognito-reactapp](https://github.com/user-attachments/assets/a0a00656-f095-42f7-8e6a-1919d8199b94)
+
+
   Step-by-Step_Guide:
 ## Set_Up_AWS_Amplify:
       - Create_AWS_Account: 
