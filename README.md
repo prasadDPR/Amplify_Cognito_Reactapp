@@ -1,10 +1,10 @@
 ## Building a React App with Amplify, Cognito, and CI/CD with GitHub
 
-## Architectural Diagram
-![Amplify-cognito-reactapp](https://github.com/user-attachments/assets/7e5d9e59-bafc-4092-baee-8bdd6c464bae)
-
 ## Overview:
 This project focuses on building a secure and scalable React application integrated with AWS Amplify for authentication using AWS Cognito. The application is deployed to AWS Amplify Hosting, ensuring efficient development workflows and rapid deployment cycles.
+
+## Architectural Diagram
+![Amplify-Cognito-ReactApp](https://github.com/user-attachments/assets/e347cca4-1841-4665-8bd6-aaf25c426261)
 
 ## Project Goals:
 Authentication with AWS Cognito: Implement user authentication and authorization using AWS Cognito to secure the React application.
